@@ -1,4 +1,4 @@
-**Welding Defect Detection System**
+# Welding Defect Detection System
 
 **Overview**
 
