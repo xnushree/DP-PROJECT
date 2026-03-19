@@ -56,10 +56,12 @@ Includes an integrated feature to generate detailed inspection reports for detec
 - SegFormer
 - mcnn
 - FPN, MAnet, LinkNet, DPT
+
 These models perform pixel-level defect localization.
 
 **Detection Models** 
 - YOLOv8, YOLOv11, YOLOv12
+
 Used for:
 - Bounding box detection  
 - Defect classification  
