@@ -41,6 +41,14 @@ The GUI provides image preview, segmentation output, detection results, and meta
 
 ---
 
+**Report Preview**
+
+![GUI](ReportGeneration.png)
+
+Includes an integrated feature to generate detailed inspection reports for detected welding defects
+
+---
+
 **Models Used**
 
 **Segmentation Models**
