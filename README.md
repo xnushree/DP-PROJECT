@@ -13,7 +13,7 @@ Detects, localizes, and classifies welding defects from X-ray images.
 - User-friendly Desktop GUI (PyQt).
 - Upload and preview image datasets.
 - Multiple Segmentation Models:
-  - U-Net, mcnn , SegFormer.
+  - U-Net, mcnn, SegFormer.
 - Detection Models:
   - YOLO (v8, v11, v12).
 - Real-time defect visualization with bounding boxes.
@@ -71,7 +71,7 @@ Used for:
 - NVIDIA Jetson Orin Nano (8GB)
 - 128GB SD Card
 - Portable Power Supply
-Enables real-time edge AI processing without cloud dependency :contentReference[oaicite:0]{index=0}
+Enables real-time edge AI processing without cloud dependency.
 
 ---
 
