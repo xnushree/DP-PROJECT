@@ -69,8 +69,8 @@ Enables real-time edge AI processing without cloud dependency :contentReference[
 
 **Contributors**
 
--Anushree Verma
--Osheen Mahajan
--Riddhi Maheshwari
--Tanvi Champatasingh
--Disha Lohani
+- Anushree Verma
+- Osheen Mahajan
+- Riddhi Maheshwari
+- Tanvi Champatasingh
+- Disha Lohani
